@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xC83FaD1BE05261dE4e4E0B7Da7DF2a11b039c6FE",
+  "SCAN_LINK": "https://arbiscan.io/address",
+  "NETWORK": {
+    "NAME": "Arbitrum",
+    "SYMBOL": "ETH",
+    "ID": 42161
+  },
+  "NFT_NAME": "Wizard Alantar",
+  "SYMBOL": "WIZARDALANTAR",
+  "MAX_SUPPLY": 150,
+  "WEI_COST": 100000000000000000,
+  "DISPLAY_COST": 0.1,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
